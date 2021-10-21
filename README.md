@@ -1,6 +1,6 @@
 # Taller-Python
 
-Repositorio para el taller de Python del Seminario internacional en métodos numéricos y herramientas computacionales - 2021 - Herramientas computacionales y métodos numéricos para problemas de ingenieria.
+Repositorio para el taller de Python del <b>Seminario internacional en métodos numéricos y herramientas computacionales - 2021 - Herramientas computacionales y métodos numéricos para problemas de ingenieria</b>.
 
 ## Software recomendado
 
